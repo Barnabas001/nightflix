@@ -13,7 +13,8 @@ const Navbar: React.FC = () => (
       Nightflix
     </span>
     <a
-      href="#tickets"
+      href="https://selar.com/o2tj3p0r38"
+      target="_blank"
       className="text-white text-xs font-semibold tracking-widest uppercase border border-white/40 px-4 py-2 rounded hover:bg-white hover:text-black transition-colors duration-200"
     >
       Buy Tickets
@@ -184,7 +185,8 @@ const Hero: React.FC = () => (
     {/* CTA */}
     <div id="tickets" className="relative z-10 mt-10">
       <a
-        href="#"
+        href="https://selar.com/o2tj3p0r38"
+        target="_blank"
         className="inline-block font-black text-white text-sm md:text-base tracking-widest uppercase px-12 py-4 rounded-full shadow-lg transition-all duration-200 hover:scale-105 active:scale-95"
         style={{
           background: "linear-gradient(135deg, #e8192c 0%, #c0112a 100%)",
